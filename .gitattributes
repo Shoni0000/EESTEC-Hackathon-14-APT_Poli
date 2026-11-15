@@ -1,0 +1,5 @@
+starter/main.py text eol=lf
+starter/Dockerfile text eol=lf
+starter/harness/*.py text eol=lf
+starter/harness/*.txt text eol=lf
+starter/harness/*.md text eol=lf

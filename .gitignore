@@ -1,0 +1,4 @@
+dev.env
+.test_memory/
+__pycache__/
+*.py[cod]
